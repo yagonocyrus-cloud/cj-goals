@@ -1,5 +1,6 @@
 import { Stack } from "expo-router"
 import { StatusBar } from "expo-status-bar"
+import { GoalsProvider } from "../contexts/GoalsContext"
 
 export default function RootLayout() {
   return (
